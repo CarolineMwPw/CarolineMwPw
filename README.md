@@ -15,7 +15,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
 </div>
-📫 Cвязаться: https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge https://img.shields.io/badge/@yesicattt-black?logo=@yesicattt&logoColor=white&style=for-the-badge | Email: Lina-404@yandex.ru
+📫 Cвязаться: <div id="badges">
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge alt="Telegram Badge"/> <img src="https://img.shields.io/badge/@yesicattt-black?logo=@yesicattt&logoColor=white&style=for-the-badge  alt="Icon Badge"/> | Email: Lina-404@yandex.ru
 
 <!--
 **CarolineMwPw/CarolineMwPw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

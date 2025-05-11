@@ -23,12 +23,23 @@
 ---
 
 📫 Cвязаться: 
+
+  [![Telegram Badge](https://img.shields.io/badge/Telegram-@yesicattt-blue?style=for-the-badge&logo=telegram)](https://t.me/yesicattt) 
+  [![Yandex Mail Badge](https://img.shields.io/badge/Yandex-Lina-404@yandex.ru-brown?style=for-the-badge&logo=yandex&logoColor=white)](https://mail.yandex.ru/compose?to=Lina-404@yandex.ru)
+
+
+
+<!--
+
 <div id="badges">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   <a href="Lina-telegram-URL"> <img src="https://img.shields.io/badge/@yesicattt-black?logo=@yesicattt&logoColor=white&style=for-the-badge"  alt="Icon Badge"/> </a>
   <img src="https://img.shields.io/badge/Email-white?logo=email&logoColor=orange&style=for-the-badge" alt="Email Badge"/>
   <a href="Lina-email"> <img src="https://img.shields.io/badge/Lina-404@yandex.ru-orange?logo=email&logoColor=white&style=for-the-badge" alt="Name Badge"/> </a>
   </div>
+
+-->
+
 
 <!--
 **CarolineMwPw/CarolineMwPw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

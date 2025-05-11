@@ -15,11 +15,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
 </div>
-📫 Cвязаться: <div id="badges">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge alt="Telegram Badge"/> <img src="https://img.shields.io/badge/@yesicattt-black?logo=@yesicattt&logoColor=white&style=for-the-badge  alt="Icon Badge"/>
+📫 Cвязаться: 
+<div id="badges">
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/@yesicattt-black?logo=@yesicattt&logoColor=white&style=for-the-badge  alt="Icon Badge"/>
   <img src="https://img.shields.io/badge/Email-white?logo=email&logoColor=orange&style=for-the-badge alt="Email Badge"/>
   <img src="https://img.shields.io/badge/Lina-404@yandex.ru-orange?logo=email&logoColor=white&style=for-the-badge alt="Name Badge"/>
-
   </div>
 
 <!--

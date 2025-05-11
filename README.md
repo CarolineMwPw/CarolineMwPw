@@ -26,7 +26,7 @@
 
   [![Telegram Badge](https://img.shields.io/badge/Telegram-@yesicattt-blue?style=for-the-badge&logo=telegram)](https://t.me/yesicattt) 
 
-[![Yandex Mail Badge](https://img.shields.io/badge/Yandex-padoshvars@yandex.ru-yellow?style=for-the-badge&logo=yandex&logoColor=black)](https://mail.yandex.ru/compose?to=padoshvars@yandex.ru)
+[![Yandex Mail Badge](https://img.shields.io/badge/Yandex-Lina-404@yandex.ru-yellow?style=for-the-badge&logo=yandex&logoColor=black)](https://mail.yandex.ru/compose?to=Lina-404@yandex.ru)
   
 
 

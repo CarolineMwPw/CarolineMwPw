@@ -25,7 +25,10 @@
 📫 Cвязаться: 
 
   [![Telegram Badge](https://img.shields.io/badge/Telegram-@yesicattt-blue?style=for-the-badge&logo=telegram)](https://t.me/yesicattt) 
-  [![Yandex Mail Badge](https://img.shields.io/badge/Yandex-Lina-404@yandex.ru-brown?style=for-the-badge&logo=yandex&logoColor=white)](https://mail.yandex.ru/compose?to=lina-404@yandex.ru)
+
+
+  
+  [![Yandex Mail Badge](https://img.shields.io/badge/Yandex-lina-404@yandex.ru-brown?style=for-the-badge&logo=yandex&logoColor=white)](https://mail.yandex.ru/compose?to=lina-404@yandex.ru)
 
 
 

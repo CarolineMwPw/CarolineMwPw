@@ -1,7 +1,7 @@
 ## Hi there 👋 Я - Каролина.
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHU4NWx5ODZrNXBzODdmcnNuNnJveTRqZnI0amgzMWpqaWU3N2c0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cst5AXzPxRLyIwMNsV/giphy.gif)" width="300" />
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHU4NWx5ODZrNXBzODdmcnNuNnJveTRqZnI0amgzMWpqaWU3N2c0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cst5AXzPxRLyIwMNsV/giphy.gif)" width="300" height="100"/>
 </div>
 
 
@@ -15,7 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
 </div>
-📫 Как связаться: https://t.me/@yesicattt | [Email]:Lina-404@yandex.ru)
+📫 Как связаться: t.me/@yesicattt | Email: Lina-404@yandex.ru
 
 <!--
 **CarolineMwPw/CarolineMwPw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

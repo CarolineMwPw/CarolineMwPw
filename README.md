@@ -1,7 +1,7 @@
 ## Hi there 👋 Я - Каролина.
 
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnY3dGc5cTBzdTY0emJtd3VuMWdzbmh6OTZ2YXYydDh5YmZxbDM5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XE90Rm9DzCVfHb7zTe/giphy.gif" width="100" height="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnY3dGc5cTBzdTY0emJtd3VuMWdzbmh6OTZ2YXYydDh5YmZxbDM5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XE90Rm9DzCVfHb7zTe/giphy.gif" width="170" height="240"/>
 </div>
 
 

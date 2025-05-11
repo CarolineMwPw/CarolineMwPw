@@ -5,6 +5,16 @@
 </div>
 
 
+---
+
+Фронтенд - единственные одобряемые мной абьюзивные отношения:
+Зашла сюда и попала в бесконечный цикл „любовь-ненависть“.🙃
+Здесь я нашла тот баланс между рассуждениями и творчеством, тыкаешь кнопочки и сразу осязаешь результат. Идеальный стык визуального и технического!
+А еще разработка не стоит на месте, так что теперь я вечный студент ✔ mission completed
+
+---
+
+
 ### 🛠️ Мой стек:
 <div align="center">
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
@@ -26,7 +36,7 @@
 
   [![Telegram Badge](https://img.shields.io/badge/Telegram-@yesicattt-blue?style=for-the-badge&logo=telegram)](https://t.me/yesicattt) 
 
-[![Yandex Mail Badge](https://img.shields.io/badge/Yandex-Lina--404@yandex.ru-brown?style=for-the-badge&logo=yandex&logoColor=brown)](https://mail.yandex.ru/compose?to=Lina-404@yandex.ru)
+[![Yandex Mail Badge](https://img.shields.io/badge/Yandex-Lina--404@yandex.ru-orange?style=for-the-badge&logo=yandex&logoColor=brown)](https://mail.yandex.ru/compose?to=Lina-404@yandex.ru)
   
 
 
